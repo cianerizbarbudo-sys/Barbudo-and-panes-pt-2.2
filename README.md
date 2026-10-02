@@ -3,24 +3,7 @@
 <head>
     <title>My Dream Website</title>
 </head>
-<style>
-    
-    h1 {
-        background-color:lightblue;
-        color:white;
-        padding:75px;
-        margin:0;
-        text-align:center;
-    }
-    
-    
-    
-    
-    
-    
-    
-</style>
-</head>
+
 <body style="background-color:lightblue;">
     
 <h1 style="text-align:center; font-family:verdana;">MY DREAM WEBSITE</h1>
